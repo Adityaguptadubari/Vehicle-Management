@@ -1,6 +1,8 @@
 # Vehicle-Management
 
-Hey I am Harshit!
-This is my Vehicle Management System Project by me !
-
-Hope You Like it 😊
+This is the repository of the team "CODING KNIGHT RIDERS"
+<br>
+Team members :- HARSHIT SHARMA <br> 
+                ADITYA GUPTA <br>
+                AMAN RAI <br>
+                ANURAG UPADHYAY <br>
